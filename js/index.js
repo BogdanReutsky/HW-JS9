@@ -29,6 +29,7 @@ function findLongestWord(string){
     }
     return longestWord
 }
+console.log("random words in this log for homework");
 console.log(findLongestWord("random words in this log for homework"));
 
 
